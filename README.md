@@ -48,3 +48,24 @@ The features that the website should include:
 - [] Ability to checkout
 - [] Ability for online payment.
 - [] Ability to save delivery information.
+### Structure Plane
+The information architutre:
+- Flow of information should be clear and consistent throughout the design.
+The interaction design:
+- Once opened website user will be informed about the website's information so that he/she can easily start to shop on this website. 
+- The landing page should also contain visuals in form of images that convey the meaning that this is a website that has something to do with the supplements.
+- The landing page should contain a call-to-action to invoke a lead.
+- The landing page will be provided with different buttons for categorizing the products.
+- On the landing page user can also easily use the search input to find a specific product by its name or description.
+- In the right top corner of the website user will be able to see a shopping bag with the current amount, Profile button witch will lead a user to the profile page once a user is registered, if not he will be able to easily get registred, and a contact button for the contact page.
+- Products page will contain a preview of all the products/supplements that can be found in the database.
+- Supplements should be displayed on the products page using bootstrap cards where each card will contain an image, name, price, rating, and category.
+- Once clicked on the card user will be provided with a product image, name, price, rating, category, description, and product review, he will be able to increment decrement the quantity wanted to be added to the shopping bag and a button which will add the products to shopping bag.
+- Registered users will be able to create reviews, update their existing reviews or delete them.
+- Review will contain one input field and submit button.
+- The profile page should contain delivery information that the user has provided when he signed up, update them when needed, and order history.
+- Contact page will contain contact information and an email form.
+- Contact information should contain the company phone and email address.
+- Shopping bag page will contain product info, product name, ID, the number of products added, the price for single and subtotal products, bag total, delivery price, and a grand total.
+- Once clicked on the checkout button user will need to provide delivery information and cart number.
+- The checkout page will contain delivery information and an order summary with the total price.
