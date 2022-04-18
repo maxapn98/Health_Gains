@@ -27,3 +27,24 @@ The user goals :
 - User can modify the number of products wanted in the bag.
 - Once pressed the checkout button user will need to provide delivery information and card number.
 - Once all information provided by the user is verified user will get order information, and order verification.
+### Scope Plane
+The features that the website should include:
+- [] Landing page
+- [] Products page
+- [] Login form
+- [] Profile page
+- [] Registration form.
+- [] Shopping bag page 
+- [] Contact page
+- [] Ability to Search specific products by name.
+- [] Ability to sort products by category.
+- [] Ability to sort products by rating, and price.
+- [] Ability to enter in the specific product page and look at description, image, price, category
+- [] Ability to add a quantity of the product to a shopping bag
+- [] Ability to see reviews.
+- [] Ability to add a review, update the review, and delete.
+- [] Ability to add the wanted product to the shopping bag.
+- [] Ability to modify shopping bag quantity of products.
+- [] Ability to checkout
+- [] Ability for online payment.
+- [] Ability to save delivery information.
