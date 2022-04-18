@@ -78,3 +78,9 @@ The interaction design:
 - Shopping bag page
 - Checkout page
 - Checkout success page
+#### Navigation
+- User will be able to navigate the website using the websites' navigation.
+- The profile page will only be made available to the user if he is logged in.
+- The navbar will contain search input, Profile page, Contact page, Shopping bag with bag total underneath the icon.
+- Navbar will contain the website logo.
+- Nav menu on the phone will be activated by clicking on a burger icon.
