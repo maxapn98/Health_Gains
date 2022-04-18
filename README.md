@@ -69,3 +69,12 @@ The interaction design:
 - Shopping bag page will contain product info, product name, ID, the number of products added, the price for single and subtotal products, bag total, delivery price, and a grand total.
 - Once clicked on the checkout button user will need to provide delivery information and cart number.
 - The checkout page will contain delivery information and an order summary with the total price.
+### Skeleton plane
+- Homepage
+- products page
+- Profile page
+- Registration page
+- Contact page
+- Shopping bag page
+- Checkout page
+- Checkout success page
