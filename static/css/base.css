@@ -1,0 +1,7 @@
+.hero {
+    background-size: cover;
+    background: url(/media/7a91c6dabc3ab3aea0f7791a375939146de8bab0_SLIDE-Sustapure.jpg);
+    position: relative;
+    z-index: 1;
+    background-position: right;
+}
