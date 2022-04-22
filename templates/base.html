@@ -47,6 +47,7 @@
 
 <body>
   <header>
+    <!--Logo-->
     <div class="container-fluid bg-dark fixed-top">
       <div class="row d-lg-flex d-none" id="topnav">
         <div class="col-12 col-lg-4 my-auto py-1 py-lg-0">
@@ -70,6 +71,7 @@
             </div>
           </form>
         </div>
+        <!--Profile-->
         <div class="col-12 col-lg-4 my-auto py-1 py-lg-0">
           <ul class="list-inline list-unstyled text-center text-lg-right my-2">
             <li class="list-inline-item dropdown">
@@ -90,6 +92,16 @@
                 {% endif %}
               </div>
             </li>
+            <!--Contact-->
+            <li class="list-inline-item">
+              <a href="#" class="text-black nav-link">
+              <div class="text-center">
+                <div><i class="fas fa-address-book fa-lg"></i></div>
+                <p class="my-0">Contact us</p>
+              </div>
+            </a>
+            </li>
+            <!--Shopping bag-->
             <li class="list-inline-item">
               <a class="{% if grand_total %}text-info font-weight-bold{% else %}text-black{% endif %} nav-link" href="">
                 <div class="text-center">
