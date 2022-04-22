@@ -1,3 +1,41 @@
+
+/*color-palette*/
+:root{
+    --white: #F5F7F7;
+    --yellow: #EDBD18;
+    --red : #79031D;
+    --black: #1B2122;
+    --silver : #A3B1B3;
+}
+
+.main-logo-link {
+    color: var(--white);
+    width: fit-content;
+    text-transform: uppercase;
+}
+
+a {
+    color:var(--white)
+}
+
+
+a:hover {
+    color: var(--silver);
+}
+
+.header-color {
+    background-color: var(--black);
+}
+
+.icon {
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    height: 1.5rem;
+    width: 1.5rem;
+    color :var(--white)
+}
+
 .hero {
     background-size: cover;
     background: url(/media/7a91c6dabc3ab3aea0f7791a375939146de8bab0_SLIDE-Sustapure.jpg);
@@ -5,3 +43,21 @@
     z-index: 1;
     background-position: right;
 }
+
+/* Slightly larger container on xl screens */
+@media (min-width: 1200px) {
+    .container {
+      max-width: 80%;
+    }
+  }
+  
+  /* fixed top navbar only on medium and up */
+  @media (min-width: 992px) {
+      .fixed-top-desktop-only {
+          position: fixed;
+          top: 0;
+          right: 0;
+          left: 0;
+          z-index: 1030;
+      }
+  }
